@@ -288,30 +288,6 @@ The MERN Marketplace application will allow users to become sellers, who can man
 | <img width="148" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/ffcf4801-aaf6-481f-aea8-cfc09368d688"> | <img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/8ad3acfd-6f3b-4f8f-bfb4-913adf22adf1"> |
 | <img width="146" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/52a46af4-d48c-493f-9b8f-7c5ebaffd230"> | <img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/5d05cdc5-7935-4f92-a629-4c33ea61f340"> |
 
-# Admin Dashbard 👤
- <img width="960" alt="adminDs" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/df7f3d6c-d429-48a0-b9bc-1673c7532faf">
-<table>
-  <tr>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/544cc86c-64e9-4cf2-b528-b422b4210001"></td>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/2d03dcc8-96f0-4235-b61d-2b1a752d4a93"></td>
-  </tr>
-  <tr>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/e935093c-18be-42b7-9f24-374a655ee71d"></td>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/7b2df4a5-54c2-472b-87e6-62815d7a247d"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/f88da15d-c5e5-4a1d-bd76-ad32aaf6e626"></td>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/9a442db3-1296-48a7-977c-c50bc30bf5aa"></td>
-  </tr>
-  <tr>
-    <td><img width="960" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/afeb4548-7ef0-441e-b418-9335e54c0a05"></td>
-  </tr>
-</table>
-
------
-
 ## Project description 📝
 
 🌟 Introducing MERN Marketplace: A Revolutionary Multi-Vendor Website 🌟
