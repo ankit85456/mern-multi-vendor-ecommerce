@@ -1,5 +1,3 @@
-<div align="center">
-      <img width="226" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/51c0517e-e5e6-4a65-a520-9e5a52095fb9">
 
 ## 🌟 MERN Marketplace 🌟
 
@@ -176,6 +174,54 @@ The MERN Marketplace application will allow users to become sellers, who can man
 
 ## Sneak Peek of Home Page 🙈 :
 ![Home](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/92e3c9bea6f6b39b7fbb5c43e26914f660a5e600/Screenshot%202026-03-10%20201826.png)
+
+## User Profile Page 👥
+
+![User Profile](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203433.png?raw=true)
+
+---
+
+## Product Page ⚙️
+
+![Product](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203508.png?raw=true)
+
+![Product](IMAGE_LINK_3)
+
+![Product](IMAGE_LINK_4)
+
+---
+
+## Receipt 📄
+
+![Receipt](IMAGE_LINK_5)
+
+![Receipt](IMAGE_LINK_6)
+
+---
+
+## Seller Page 🛍️
+
+![Seller](IMAGE_LINK_7)
+
+![Seller](IMAGE_LINK_8)
+
+![Seller](IMAGE_LINK_9)
+
+---
+
+## More Screenshots
+
+![Image](IMAGE_LINK_10)
+
+![Image](IMAGE_LINK_11)
+
+![Image](IMAGE_LINK_12)
+
+![Image](IMAGE_LINK_13)
+
+![Image](IMAGE_LINK_14)
+
+![Image](IMAGE_LINK_15)
 
 
 ## User Profile Page 👥 :
