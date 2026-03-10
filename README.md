@@ -175,6 +175,7 @@ The MERN Marketplace application will allow users to become sellers, who can man
   - if Delete images it also deletes from the local devise
 
 ## Sneak Peek of Home Page 🙈 :
+https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/b1e808277198ad81c932bb9e15912269dda8416f/Screenshot%202026-03-10%20201826.png
 
 
 ## User Profile Page 👥 :
