@@ -185,57 +185,43 @@ The MERN Marketplace application will allow users to become sellers, who can man
 
 ![Product](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203508.png?raw=true)
 
-![Product](IMAGE_LINK_3)
+![Product](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203532.png?raw=true)
 
-![Product](IMAGE_LINK_4)
+![Product](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203621.png?raw=true)
 
 ---
 
 ## Receipt 📄
 
-![Receipt](IMAGE_LINK_5)
+![Receipt](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20204204.png?raw=true)
 
-![Receipt](IMAGE_LINK_6)
+![Receipt](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20204145.png?raw=true)
 
 ---
 
 ## Seller Page 🛍️
 
-![Seller](IMAGE_LINK_7)
+![Seller](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203716.png?raw=true)
 
-![Seller](IMAGE_LINK_8)
+![Seller](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203751.png?raw=true)
 
-![Seller](IMAGE_LINK_9)
+![Seller](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203806.png?raw=true)
 
 ---
 
 ## More Screenshots
 
-![Image](IMAGE_LINK_10)
+![Image](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20203912.png?raw=true)
 
-![Image](IMAGE_LINK_11)
+![Image](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20204110.png?raw=true)
 
-![Image](IMAGE_LINK_12)
+![Image](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20204110.png?raw=true)
 
-![Image](IMAGE_LINK_13)
+![Image](https://github.com/ankit85456/mern-multi-vendor-ecommerce/blob/main/images/Screenshot%202026-03-10%20204145.png?raw=true)
 
 ![Image](IMAGE_LINK_14)
 
 ![Image](IMAGE_LINK_15)
-
-
-## User Profile Page 👥 :
-
-    
-
-# Product Page ⚙️
-
-    
-
-# 🧾 Receipt
-
-
-# Seller page 🛍️
 
 
 ## Project description 📝
